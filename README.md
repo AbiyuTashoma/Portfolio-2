@@ -1,5 +1,7 @@
 # Portfolio
 
+![bilde](https://github.com/user-attachments/assets/4b00477b-1043-4ddc-aa8b-005854df9cca)
+
 A brief presentation of the projects I have been working on.
 
 ## Description
@@ -18,14 +20,14 @@ To get started, follow one the following options
 
 ### Visit the hosted website
 
-[website link]
+https://abiyutashoma.github.io/Portfolio-2/
 
 ### Installing
 
 1. Clone the repo:
 
 ```
-[Github repo]
+https://github.com/AbiyuTashoma/Portfolio-2
 ```
 
 2. Run index.html from root folder
@@ -33,7 +35,7 @@ To get started, follow one the following options
 ## Dependencies:
 
 ```
-Website is dependent on CDN Bootstrap.
+The website is dependent on CDN Bootstrap.
 ```
 
 ## Contact
