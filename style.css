@@ -1,0 +1,8 @@
+.card-hover {
+  transition-property: all;
+  transition-duration: 0.5s;
+}
+
+.card-hover:hover {
+  border: solid thin rgb(37, 83, 67);
+}
