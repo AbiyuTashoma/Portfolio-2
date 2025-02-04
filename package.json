@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-2",
+  "version": "0.0.1",
+  "description": "A brief presentation of the projects I have been working on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
