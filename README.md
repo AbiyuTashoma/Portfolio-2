@@ -16,7 +16,7 @@ Portfolio is a website where selected projects I have been working on are presen
 
 ## Getting Started
 
-To get started, follow one the following options
+To get started, follow one of the following options
 
 ### Visit the hosted website
 
